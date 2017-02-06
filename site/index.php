@@ -16,7 +16,7 @@ if( isset( $_GET['page'] ) ){
   </head>
   <body>
     <header>
-      <h1>My Mini Site</h1>
+      <h1>Simplest Little Site</h1>
       <nav>
         <ul>
           <li><a href="index.php?page=home">Home</a></li>
