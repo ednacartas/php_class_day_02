@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  background-color: mediumaquamarine;
+  font-family: Calibri;
+  color: salmon;
+}
+body {
+  width: 960px;
+  padding: 20px 40px;
+  margin: 40px auto 0;
+  background-color: mintcream;
+}
